@@ -1,0 +1,20 @@
+{
+	nodes : [
+		{
+			id : r/subreddit,
+			description : '...',
+			#subs :	250		//determines the group
+			edgecount : 783, 	//for the dot size
+		},
+		...
+	],
+
+	edges : [
+		{
+			source : 'r/subreddit',
+			target : 'r/shnubgeddit',
+			value : 12
+		},
+		...
+	]
+}
