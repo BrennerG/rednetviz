@@ -1,0 +1,51 @@
+{
+  "nodes": [
+    {
+      "name": "iamverysmart",
+      "description": null,
+      "subs": null
+    },
+    {
+      "name": "subsyoufellfor",
+      "description": null,
+      "subs": null
+    },
+    {
+      "name": "pics",
+      "description": null,
+      "subs": null
+    },
+    {
+      "name": "badfaketexts",
+      "description": null,
+      "subs": null
+    },
+    {
+      "name": "sweatypalms",
+      "description": null,
+      "subs": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "pics",
+      "target": "pics",
+      "value": 13
+    },
+    {
+      "source": "iamverysmart",
+      "target": "badfaketexts",
+      "value": 18
+    },
+    {
+      "source": "subsyoufellfor",
+      "target": "subsyoufellfor",
+      "value": 21
+    },
+    {
+      "source": "pics",
+      "target": "sweatypalms",
+      "value": 12
+    }
+  ]
+}

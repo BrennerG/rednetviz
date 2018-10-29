@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "name": "iamverysmart",
+      "description": null,
+      "subs": null
+    },
+    {
+      "name": "pics",
+      "description": null,
+      "subs": null
+    },
+    {
+      "name": "badfaketexts",
+      "description": null,
+      "subs": null
+    },
+    {
+      "name": "sweatypalms",
+      "description": null,
+      "subs": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "iamverysmart",
+      "target": "badfaketexts",
+      "value": 18
+    },
+    {
+      "source": "pics",
+      "target": "sweatypalms",
+      "value": 12
+    }
+  ]
+}
